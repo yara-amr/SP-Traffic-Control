@@ -1,0 +1,5 @@
+﻿  SP Traffic Control Project.cpp
+C:\Users\Yara\source\repos\SP Traffic Control Project\SP Traffic Control Project\SP Traffic Control Project.cpp(116,55): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Yara\source\repos\SP Traffic Control Project\SP Traffic Control Project\SP Traffic Control Project.cpp(121): warning C4715: 'payment': not all control paths return a value
+C:\Users\Yara\source\repos\SP Traffic Control Project\SP Traffic Control Project\SP Traffic Control Project.cpp(134): warning C4715: 'search': not all control paths return a value
+  SP Traffic Control Project.vcxproj -> C:\Users\Yara\source\repos\SP Traffic Control Project\Debug\SP Traffic Control Project.exe
